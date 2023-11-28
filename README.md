@@ -45,7 +45,8 @@ With the help of the Coffee Sales Dashboard, businesses can increase revenue, en
 - Exploratory data analysis (EDA)
 
 ## A Fast Look At The Dashboard
-![dashboard](Assets/Glance.png)
+![Overlook](https://github.com/SFutureAnalyst/Coffee-Bean-Sales-Excel-Portfolio/assets/146059342/54bc3e19-1843-4ed4-9316-1aaf879ef80e)
+
 
 ## Data Overview
 Data on coffee bean sales are divided into 3 separate sheets:
